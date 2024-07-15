@@ -5,3 +5,4 @@ The project involves data preprocessing, exploratory data analysis, feature engi
 
 Please, feel free to give any feedback or suggestions after revewing the complete project here:
 
+https://github.com/ricardofschmid/Real-State-Price-Prediction---Chicago/tree/main
